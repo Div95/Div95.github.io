@@ -1,0 +1,3 @@
+{
+  "extends": ["amex", "plugin:prettier/recommended", "prettier/react"]
+}

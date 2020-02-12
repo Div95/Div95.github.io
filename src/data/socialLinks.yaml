@@ -1,0 +1,12 @@
+- label: Email
+  href: mailto:divya95@gmail.com
+  icon: envelope
+  title: Email me
+- label: LinkedIn
+  href: https://www.linkedin.com/in/divya-sharma-4b5407154/
+  icon: fab-linkedin
+  title: Connect with me on LinkedIn
+- label: GitHub
+  href: https://github.com/div95
+  icon: fab-github
+  title: Follow me on Github
